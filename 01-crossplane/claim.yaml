@@ -1,7 +1,6 @@
 # =====================================================================
-# Crossplane Claim — XPostgreSQLInstance
+#  Crossplane Claim — XPostgreSQLInstance
 # =====================================================================
-
 apiVersion: database.poc.io/v1alpha1
 kind: PostgreSQLInstance
 metadata:

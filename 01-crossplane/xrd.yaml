@@ -16,8 +16,6 @@ apiVersion: apiextensions.crossplane.io/v2
 kind: CompositeResourceDefinition
 metadata:
   name: xpostgresqlinstances.database.poc.io
-  annotations:
-    argocd.argoproj.io/sync-wave: "1"
 spec:
   group: database.poc.io
   names:
