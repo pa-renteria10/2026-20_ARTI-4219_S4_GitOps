@@ -10,7 +10,7 @@ metadata:
     argocd.argoproj.io/sync-wave: "3"
 spec:
   forProvider:
-    dbName: devdb-v2
+    dbName: devdb-v3
     owner: devteam
   writeConnectionSecretToRef:
     name: dev-database-conn
