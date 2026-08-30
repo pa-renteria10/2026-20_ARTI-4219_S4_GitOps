@@ -1,5 +1,5 @@
 # =====================================================================
-#  argocd Application — GitOps Demo
+#  argocd Application — GitOps Demo. 
 # =====================================================================
 apiVersion: argoproj.io/v1alpha1
 kind: Application
